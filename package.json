@@ -1,0 +1,31 @@
+{
+  "name": "reactexpressboilerplate",
+  "version": "1.0.0",
+  "description": "Starting point for creating an react app with express",
+  "main": "app/index.jsx",
+  "scripts": {
+    "test": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/leachjustin18/ReactExpressBoilerPlate.git"
+  },
+  "keywords": [
+    "React",
+    "Express",
+    "Hot",
+    "reload",
+    "bable",
+    "babel",
+    "hot",
+    "reload",
+    "jsx",
+    "node"
+  ],
+  "author": "Justin Leach",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/leachjustin18/ReactExpressBoilerPlate/issues"
+  },
+  "homepage": "https://github.com/leachjustin18/ReactExpressBoilerPlate#readme"
+}
